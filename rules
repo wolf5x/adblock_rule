@@ -8,3 +8,61 @@ cnbeta.com##.ad-widget-imageplus-sticker
 cnbeta.com##.cbv
 !cnbeta.com##.cnbeta-home-side > .cbv
 !cnbeta.com##.cnbeta-article-vote-tags > .cbv
+
+! 1/31/2017, 1:01:56 AM http://www.cnbeta.com/articles/580959.htm
+www.cnbeta.com##.commt-r
+
+! 1/31/2017, 1:02:32 AM http://www.cnbeta.com/articles/580959.htm
+www.cnbeta.com##.other_news
+
+! 1/31/2017, 1:03:41 AM http://www.cnbeta.com/articles/580959.htm
+www.cnbeta.com##a[href^="https://www.itiger.com/market/201602"]
+
+! 1/31/2017, 1:04:06 AM http://www.cnbeta.com/articles/581013.htm
+www.cnbeta.com##.navi > .bd
+
+! 1/31/2017, 1:06:01 AM http://www.cnbeta.com/articles/580957.htm
+www.cnbeta.com###kAxkWxMsXj
+
+! 1/31/2017, 1:06:14 AM http://www.cnbeta.com/articles/580959.htm
+www.cnbeta.com###HBYKcrpeKY
+
+! 4/14/2017, 6:20:31 AM http://www.cnbeta.com/
+www.cnbeta.com##.cooperation.item > div
+
+! 4/18/2017, 11:35:15 AM https://tieba.baidu.com/p/5076415141
+tieba.baidu.com##.thread-recommend.thread_recommend
+
+! 4/18/2017, 11:38:03 AM https://tieba.baidu.com/p/1738643914
+tieba.baidu.com##.h4b7f8e119.clearfix.j_l_post.l_post_bright.l_post
+
+! 4/18/2017, 11:59:16 AM http://tieba.baidu.com/f?kw=%CC%FA%D1%AA%C1%AA%C3%CB
+tieba.baidu.com##.clearfix.game-head-game-info-wrapper
+
+! 6/10/2017, 3:30:57 PM http://hot.cnbeta.com/articles/funny/620923.htm
+cnbeta.com##.cbv
+
+! 10/19/2017, 10:35:12 PM https://www.zhihu.com/question/30880094
+www.zhihu.com##.QuestionInvitation
+
+! 1/1/2018, 3:33:04 PM http://www.blu-dev.com/studio-energy
+www.blu-dev.com##.fadein.fpbackdrop
+
+! 2/10/2018, 11:35:39 AM http://yx.54niuren.com/game/game.html?sid=73
+yx.54niuren.com##.sq-tip.sq-tip-inset
+
+! 2/10/2018, 11:36:03 AM http://yx.54niuren.com/game/game.html?sid=73
+yx.54niuren.com##.sq-tip.sq-tip-inset
+
+! 2/10/2018, 1:50:53 PM http://pt.imi520.com/game/game.html?sid=13001
+pt.imi520.com##.sq-tip.sq-tip-inset
+
+! 2/25/2018, 7:14:37 PM https://www.douyu.com/4180830
+www.douyu.com##.focus-lead
+
+! 2/25/2018, 9:31:43 PM https://www.douyu.com/4157342
+www.douyu.com##.jschartli:has-text(欢迎来到本直播间)
+
+! 2/25/2018, 9:38:11 PM https://www.douyu.com/4157342
+www.douyu.com###js-stats-and-actions
+
